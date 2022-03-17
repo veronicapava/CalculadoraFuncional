@@ -10,7 +10,7 @@ Posibles operaciones:
 
 - sumar
 - restar
-- muliplicar
+- multiplicar
 - dividir
 
 
